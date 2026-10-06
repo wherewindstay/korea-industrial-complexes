@@ -6,7 +6,7 @@
 >
 > *The map is in Korean. GitHub does not run interactive content inside a README.*
 
-An interactive map that stacks South Korea's industrial complexes (national, general, urban high-tech and agro-industrial) together with free trade zones, foreign investment zones, research and development special zones and knowledge industry centers, by year of designation or completion. Clicking a complex shows its sub-districts, quarterly operating rate, tenants, sale rate, employment, annual output and a list of tenant firms.
+An interactive map that stacks South Korea's industrial complexes (national, general, urban high-tech and agro-industrial) together with free trade zones, foreign investment zones, R&D special zones, knowledge industry centers, free economic zones, urban convergence special zones, venture business promotion districts and regulation-free special zones, by year of designation or completion. Clicking a complex shows its sub-districts, quarterly operating rate, tenants, sale rate, employment, annual output and a list of tenant firms.
 
 | | Count | Basis |
 |---|---|---|
@@ -15,6 +15,10 @@ An interactive map that stacks South Korea's industrial complexes (national, gen
 | Foreign investment zones | 101 | Provincial notices, KOTRA guide |
 | R&D special zones | 56 districts and zones | Ministry of Science and ICT notices |
 | Knowledge industry centers | 1,553 | Factory On, end of September 2026 |
+| Free economic zones | 78 unit districts (incl. released) | Ministry of Trade designation and release notices |
+| Urban convergence special zones | 5 | Ministry of Land notices (2024-11-07) |
+| Venture business promotion districts | 30 | Ministry of SMEs and Startups notices |
+| Regulation-free special zones | 56 (incl. ended) | Regulation-Free Special Zone Committee |
 
 ## Sources
 
