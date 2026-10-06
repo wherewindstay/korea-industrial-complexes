@@ -1,0 +1,22 @@
+cff-version: "1.2.0"
+message: "If you use this work, please cite it as below."
+title: "산업단지 입지 및 입주기업 (Industrial Complexes in South Korea: Location and Tenants)"
+abstract: "An interactive map of South Korea's national, general, urban high-tech and agro-industrial complexes, free trade zones, foreign investment zones, research and development special zones and knowledge industry centers, with designation and completion years, quarterly operating statistics and tenant firm lists compiled from public data."
+authors:
+  - family-names: "Park"
+    given-names: "Sohyun"
+    affiliation: "George Mason University Korea"
+keywords:
+  - "industrial complex"
+  - "industrial location"
+  - "South Korea"
+  - "tenant firms"
+  - "special economic zone"
+  - "data visualization"
+license:
+  - "MIT"
+  - "CC-BY-4.0"
+repository-code: "https://github.com/wherewindstay/korea-industrial-complexes"
+url: "https://wherewindstay.github.io/korea-industrial-complexes/"
+type: "software"
+year: 2026

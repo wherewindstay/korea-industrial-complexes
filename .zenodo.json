@@ -1,0 +1,28 @@
+{
+  "title": "산업단지 입지 및 입주기업 (Industrial Complexes in South Korea: Location and Tenants)",
+  "description": "An interactive map of South Korea's national, general, urban high-tech and agro-industrial complexes, free trade zones, foreign investment zones, research and development special zones and knowledge industry centers, with designation and completion years, quarterly operating statistics and tenant firm lists compiled from public data.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "industrial complex",
+    "industrial location",
+    "South Korea",
+    "tenant firms",
+    "special economic zone",
+    "data visualization"
+  ],
+  "creators": [
+    {
+      "name": "Park, Sohyun",
+      "affiliation": "George Mason University Korea"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://wherewindstay.github.io/korea-industrial-complexes/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
